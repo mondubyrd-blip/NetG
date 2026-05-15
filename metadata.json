@@ -1,0 +1,6 @@
+{
+  "name": "Network Guardian G Unified",
+  "description": "An offline-first network monitoring and failover dashboard with device scanning and camera intelligence.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["Network Monitoring", "Device Scanning", "Real-time Dashboard"]
+}

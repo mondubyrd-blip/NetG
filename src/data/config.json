@@ -1,0 +1,25 @@
+{
+  "primary_ssid": "Wolves Den",
+  "failover_ssids": [
+    "Wolves Den",
+    "xfinitywifi",
+    "B's Play ground"
+  ],
+  "gateway_ip": "10.0.0.1",
+  "internet_targets": [
+    "1.1.1.1",
+    "8.8.8.8"
+  ],
+  "monitor_interval_sec": 5,
+  "scan_interval_sec": 20,
+  "background_on_close": true,
+  "lock_view_on_start": false,
+  "auto_start_enabled": true,
+  "alert_multiple_device_drop_threshold": 3,
+  "preview_enabled": true,
+  "multicast_filter": true,
+  "saved_feed_urls": {},
+  "ssid_fail_cooldown_base_sec": 30,
+  "ssid_fail_cooldown_max_sec": 300,
+  "validate_candidate_before_staying": true
+}

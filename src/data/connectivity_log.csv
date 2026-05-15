@@ -1,0 +1,12 @@
+time,wifi,gateway,internet,ssid,adapter,reason,online_devices,online_cameras,unknown_review
+2026-03-21 00:45:42,ok,down,down,B's Play ground,Wi-Fi,Associated to SSID but gateway unreachable from this computer,0,0,0
+2026-03-21 00:46:03,ok,down,down,B's Play ground,Wi-Fi,Associated to SSID but gateway unreachable from this computer,1,0,1
+2026-03-21 00:48:49,ok,ok,ok,B's Play ground,Wi-Fi,Healthy,2,0,2
+2026-03-21 00:53:06,down,down,down,,Wi-Fi,Wi-Fi disconnected from adapter,2,0,2
+2026-03-21 00:54:07,ok,ok,ok,B's Play ground,Wi-Fi,Healthy,3,0,3
+2026-03-21 01:00:09,down,ok,ok,,Wi-Fi,Wi-Fi disconnected from adapter,4,0,4
+2026-03-21 01:04:39,ok,ok,ok,xfinitywifi,Wi-Fi,Healthy,4,0,4
+2026-03-21 02:31:05,ok,down,down,xfinitywifi,Wi-Fi,Associated to SSID but gateway unreachable from this computer,4,0,4
+2026-03-21 05:04:15,ok,ok,ok,B's Play ground,Wi-Fi,Healthy,6,0,6
+2026-03-21 06:18:46,ok,ok,ok,B's Play ground,Wi-Fi,Healthy,6,0,6
+2026-03-22 08:41:52,ok,down,down,Wolves Den,Wi-Fi,Associated to SSID but gateway unreachable from this computer,0,0,0

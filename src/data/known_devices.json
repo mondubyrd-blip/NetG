@@ -1,0 +1,172 @@
+[
+  {
+    "label": "Xfinity Gateway",
+    "expected_ip": "10.0.0.1",
+    "mac": "10A793004C4B",
+    "vendor": "Xfinity/Comcast",
+    "type": "router",
+    "host": "xfinity_gateway",
+    "evidence": "Xfinity app + prior scans",
+    "notes": "Router/gateway; not a camera."
+  },
+  {
+    "label": "Google Home Mini",
+    "expected_ip": "10.0.0.230",
+    "mac": "20DFB9781395",
+    "vendor": "Google",
+    "type": "voice_assistant",
+    "host": "Google-Home-Mini",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Google Home Mini device."
+  },
+  {
+    "label": "Den Wifi",
+    "expected_ip": "10.0.0.147",
+    "mac": "08B4B1E9ECF0",
+    "vendor": "Google/Nest",
+    "type": "wifi_point",
+    "host": "Den Wifi",
+    "evidence": "Google Home app WAN IP screenshot",
+    "notes": "Nest/Google Wi-Fi point. Internal device LAN 192.168.86.1 is normal and separate from home LAN."
+  },
+  {
+    "label": "Amazon Echo Show 5",
+    "expected_ip": "10.0.0.104",
+    "mac": "1C4D66D8D285",
+    "vendor": "Amazon",
+    "type": "voice_assistant",
+    "host": "amazon-5ab4Oba03",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Echo Show 5."
+  },
+  {
+    "label": "Amazon Fire TV Stick (3rd Gen)",
+    "expected_ip": "10.0.0.160",
+    "mac": "B0F7C4DC04BB",
+    "vendor": "Amazon",
+    "type": "streaming_box",
+    "host": "b0:f7:c4:dc:04:bb",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Streaming device."
+  },
+  {
+    "label": "ONN Full HD Streaming Device",
+    "expected_ip": "",
+    "mac": "C0092520C96C",
+    "vendor": "ONN",
+    "type": "streaming_box",
+    "host": "c0:09:25:20:c9:6c",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Seen offline in screenshots."
+  },
+  {
+    "label": "DESKTOP-14TAN82",
+    "expected_ip": "10.0.0.89",
+    "mac": "6894239CEF05",
+    "vendor": "Dell",
+    "type": "desktop",
+    "host": "DESKTOP-14TAN82",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Dell Windows PC/Laptop."
+  },
+  {
+    "label": "ShangTemple-RiverCityAppLab5",
+    "expected_ip": "10.0.0.86",
+    "mac": "D42972863198",
+    "vendor": "Windows PC/Laptop",
+    "type": "desktop",
+    "host": "ShangTemple-RiverCityAppLab5",
+    "evidence": "Xfinity app screenshot",
+    "notes": "User laptop / workstation."
+  },
+  {
+    "label": "Cricket-Icon-R-Plus-2026",
+    "expected_ip": "10.0.0.10",
+    "mac": "A2D0BE02F97B",
+    "vendor": "Cricket",
+    "type": "phone",
+    "host": "Cricket-Icon-R-Plus-2026",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Phone."
+  },
+  {
+    "label": "WYZE_CAM_OG-10",
+    "expected_ip": "10.0.0.13",
+    "mac": "80482C848B5E",
+    "vendor": "Wyze",
+    "type": "camera",
+    "host": "WYZE_CAM_OG-10",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Wyze camera."
+  },
+  {
+    "label": "Wyze Camera / CAKP2JFUS",
+    "expected_ip": "10.0.0.15",
+    "mac": "7C78B236281D",
+    "vendor": "Wyze",
+    "type": "camera",
+    "host": "WYZE_CAKP2JFUS-7C78B236281D",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Wyze camera."
+  },
+  {
+    "label": "HL_PAN3",
+    "expected_ip": "10.0.0.32",
+    "mac": "D03F27C021EF",
+    "vendor": "Wyze",
+    "type": "camera",
+    "host": "HL_PAN3-D03F27C021EF",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Wyze Pan camera."
+  },
+  {
+    "label": "Wyze Camera / 7C78B224764F",
+    "expected_ip": "10.0.0.53",
+    "mac": "7C78B224764F",
+    "vendor": "Wyze",
+    "type": "camera",
+    "host": "7c:78:b2:24:76:4f",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Wyze camera."
+  },
+  {
+    "label": "WYZE_CAM_OG-8",
+    "expected_ip": "10.0.0.209",
+    "mac": "80482C848817",
+    "vendor": "Wyze",
+    "type": "camera",
+    "host": "WYZE_CAM_OG-8",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Wyze camera."
+  },
+  {
+    "label": "Wyze Smart Home Device",
+    "expected_ip": "10.0.0.223",
+    "mac": "2CAA8EE8A18E",
+    "vendor": "Wyze",
+    "type": "smart_home_device",
+    "host": "WYZEC1-JZ-2CAA8EE8A18E",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Wyze smart home device; not necessarily a camera."
+  },
+  {
+    "label": "HL_CAM4",
+    "expected_ip": "10.0.0.250",
+    "mac": "80482C2534D3",
+    "vendor": "Wyze",
+    "type": "camera",
+    "host": "HL_CAM4-80482C2534D3",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Wyze camera."
+  },
+  {
+    "label": "WYZE_CAM_OG",
+    "expected_ip": "10.0.0.251",
+    "mac": "D03F27E790C2",
+    "vendor": "Wyze",
+    "type": "camera",
+    "host": "WYZE_CAM_OG",
+    "evidence": "Xfinity app screenshot",
+    "notes": "Wyze camera."
+  }
+]
